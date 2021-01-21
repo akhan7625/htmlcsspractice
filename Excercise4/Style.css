@@ -1,0 +1,14 @@
+body {
+    font-family: 'Yusei Magic', sans-serif;
+    font-size: 20px;
+    background-color: lightblue;
+    padding: 20px;
+    color: maroon;
+    text-align: justify;
+}
+h2 {text-align: center;
+}
+img {display: block;
+    margin: auto;
+    width: 60%;
+}
